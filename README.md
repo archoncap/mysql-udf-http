@@ -60,7 +60,7 @@ make && make install
 cd ../
 
 ```
-# cp -Rv ./lib/mysql-udf-http.*  ./lib/plugin/
+### cp -Rv ./lib/mysql-udf-http.*  ./lib/plugin/
 
 ### 2. Enter to the MySQL console
 
