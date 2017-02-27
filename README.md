@@ -60,7 +60,7 @@ make && make install
 cd ../
 
 ```
-### cp -Rv ./lib/mysql-udf-http.*  ./lib/plugin/
+### [默认安装有报错,需要移动需要的文件到的MYSQL的LIB/plugin目录]cp -Rv   ./lib/mysql-udf-http.*    ./lib/plugin/
 
 ### 2. Enter to the MySQL console
 
